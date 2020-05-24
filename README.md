@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/Masoud-Ghodrati/Masoud-Ghodrati.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a data scientist with expertise in machine learning, data analysis, statistics, computer vision, and computational modelling. During my academic career, I completed degrees in Electronics Engineering (B.Eng. 2009), Biomedical Engineering (M.Eng. Bio-electric 2012), and Computational Neuroscience (PhD 2018). I worked on different research and industry projects ranging from computational and visual neuroscience, object recognition in humans (visual psychophysics, EEG), animals (behaviour and electrophysiology), and machines (DNNs and CNNs) to image segmentation (e.g., architectural floor plans and maps segmentation),  sales forecast, and AI-based clinical diagnosis (e.g., hearing disorders diagnosis). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Masoud-Ghodrati/Masoud-Ghodrati.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
